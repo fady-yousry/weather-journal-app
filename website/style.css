@@ -1,0 +1,61 @@
+body
+{
+    background-image: url(backg.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    color: white;
+}
+header h1 
+{
+    color:rgb(19, 55, 105);
+    font-weight: bolder;
+    font-size: 3rem;
+}
+label
+{
+    font-size: 1.7rem;
+    font-weight: bold;
+}
+#usZip
+{
+    font-size: 1rem;
+    font-weight: 500;
+    color: rgb(39, 24, 150);
+    text-decoration: underline;
+}
+#app input ,#app textarea ,#app 
+{
+    background-color: transparent;
+    font-size: 1rem;
+}
+#generate
+{
+    font-size: 1.5rem;
+    font-weight: 500;
+    background-color: rgba(19, 55, 105,0.8);
+
+}
+.entry
+{
+    height: 10rem;
+    background-color: rgba(19, 55, 105,0.2);
+}
+.title
+{
+    color: white;
+    font-size: 1.5rem;
+    font-weight: 700;
+    background-color: rgba(19, 55, 105,0.4);
+}
+#entryHolder 
+{
+    font-size: 1.5rem;
+    padding:1rem;
+    font-weight: 500;
+    color:rgb(19, 55, 105);
+}
+#entryHolder li 
+{
+    padding-bottom: 0.5rem;
+}
