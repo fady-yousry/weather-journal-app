@@ -8,7 +8,7 @@ after that get all data from the server and display it on html (update ui).
 
 
 ## Instructions
-1-setup local server using node.js and express.\  
+1-setup local server using node.js and express.\
 2-Get data from openweathermap api.\
 3-user will enter his feeling.\
 4-calculate the current date.\
